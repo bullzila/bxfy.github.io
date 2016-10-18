@@ -41,7 +41,7 @@ ul, a, h2 {
 #leftcontainer{
 	width:385px;
 	height:132px;
-	background-image:url(images/bannerpicleft.jpg);
+	background-image:url(images/bannerpicleft.png);
 	background-repeat:no-repeat;
 	background-position:left bottom;
 	background-color:#FFFFFF; color:#4D4747;
@@ -63,7 +63,7 @@ ul, a, h2 {
 	background-image:url(images/bannerpicright.jpg);
 	background-repeat:no-repeat;
 	background-position:left bottom;
-	background-color:#FFFFFF; color:#4D4747;
+    background-color:#FFFFFF; color:#4D4747;
 	float:left;
 	margin-top:auto;
 }
@@ -567,7 +567,7 @@ margin:auto;
 #advtmaim{
 width:205px;
 height:202px;
-background-image:url(images/lowsugar.jpg);
+background-image:url(images/lowsugar.png);
 background-repeat:no-repeat;
 background-position:left top;
 float:left;
